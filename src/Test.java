@@ -13,5 +13,6 @@ public class Test {
 
         System.out.println("Number is: "+getNumber());
         System.out.println("Ahoj Darinka");
+        System.out.println("Ďakujem");
     }
 }
