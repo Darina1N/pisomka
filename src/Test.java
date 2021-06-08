@@ -10,6 +10,8 @@ public class Test {
     }
 
     public void print() {
+
         System.out.println("Number is: "+getNumber());
+        System.out.println("Ahoj Darinka");
     }
 }
